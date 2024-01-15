@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Estamos empezando a utilizar el Git con Github👋
 
 <!--
 **christianolayaalvarado/christianolayaalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
