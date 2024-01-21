@@ -1,5 +1,8 @@
 ### Hi there Estamos empezando a utilizar el Git con Github👋
 
+Hola mi nombre es Christian Olaya, soy de Talara - Perú, actualmente vivo en Lima.Tengo 48 años, casado. Estoy empezando en el mundo del Desarrollo Web, por lo que agradecere su apoyo, quiero convertirme en un profesional del campo, para poder trabajar en dicho rubro, me apasiono mucho la informática, tambien estoy estudiando para certificarmme CCNA y continuar asi meterme de lleno en dicho campo.
+
+Si quisieras apoyarme, te lo agradeceria mucho.
 <!--
 **christianolayaalvarado/christianolayaalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
